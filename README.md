@@ -1,8 +1,10 @@
 # Editor-angular
 
-Drag-and-drop editor based on Fabricjs for Angular v7 with multiple options
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut obcaecati aliquam nihil et minus iusto, optio, eius pariatur atque explicabo, ipsam est quo? Error, sunt? Consectetur dolorem adipisci mollitia repellat?Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut obcaecati aliquam nihil et minus iusto, optio, eius pariatur atque explicabo, ipsam est quo? Error, sunt? Consectetur dolorem adipisci mollitia repellat?Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut obcaecati aliquam nihil et minus iusto, optio, eius pariatur atque explicabo, ipsam est quo? Error, sunt? Consectetur dolorem adipisci mollitia repellat?
+Editor is a Web application that would allow to create and manage media content. The most important features are: 
+-	the ability for users to upload, store and manage the source media content files such as images, audio, and video files; create and manage folders; 
+-	the ability to create new consolidated type of media content namely Slides using different types of the source media content files and effects applied to the slide items;
+-	the ability to preview created Slide in Editor directly;
+-	the ability to edit and manage Slides.
 
 ---
 
